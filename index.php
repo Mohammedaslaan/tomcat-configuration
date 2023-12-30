@@ -8,7 +8,7 @@
 <body>
 
     <?php
-    $servername = 'database.c9qjptgz0qfk.ap-south-1.rds.amazonaws.com';
+    $servername = 'terraform-20231230173749475400000004.c9qjptgz0qfk.ap-south-1.rds.amazonaws.com';
     $username = 'root';
     $password = 'root12345';
     $database = 'jspDiary';
