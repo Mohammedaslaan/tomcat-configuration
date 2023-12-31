@@ -21,7 +21,7 @@
         echo '<h2>Connection Failed:</h2>';
         echo '<p>' . $conn->connect_error . '</p>';
     } else {
-        echo '<h2>Connection Successful!</h2>';
+        echo '<h2>Connection Hello Jii Successful!</h2>';
         // Additional code or information can be displayed here
         // For example, you can run queries or fetch data from the database
     }
@@ -30,11 +30,6 @@
     $conn->close();
     ?>
 
-    <div>
-        <p>This is a basic HTML content to show that the page is working.</p>
-        <p>Feel free to add more content or customize this page as needed.</p>
-        <a href="#">Sample Link</a>
-    </div>
 
 </body>
 </html>
